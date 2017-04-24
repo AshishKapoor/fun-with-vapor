@@ -1,10 +1,8 @@
-# Basic Template
+# Project BrightSky
 
-A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
-
-## 📖 Documentation
-
-Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for instructions on how to use this package.
+This is a sample project for understanding and learning purpose by Ashish Kapoor. 
+It makes use of the Vapor framework with Swift 3.1 programming langauge.
+It also utilizes the DarkSky.net API for the purpose of consuming weather reports data in GMT-5 timezone.
 
 ## 💧 Community
 
